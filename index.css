@@ -1,0 +1,19 @@
+/* CSS Document */
+
+
+  
+[class*='col-'] {
+  padding: 0;
+}
+
+[class*='row'] {
+  margin: 0;
+}
+  .jinmori {
+    display: flex;
+    flex-direction: column;
+    max-width: 440px;
+    width: 100%;
+    text-decoration: underline;
+    color: black;
+  }
